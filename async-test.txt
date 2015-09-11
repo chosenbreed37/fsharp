@@ -1,0 +1,37 @@
+     )thginKevom n etacilper( nruter )<=<( rdlof =>> trats nruter = trats n sevomNni
+]soPthginK[ >- soPthginK >- tnI::sevomNni
+
+trats 3ni `mele` dne = dne trats 3nIhcaeRnac
+looB >- soPthginK >- soPthginK::3nIhcaeRnac
+
+thginKevom =>> thginKevom =>> thginKevom =>> trats nruter = trats '3ni
+]soPthginK[ >- soPthginK::'3ni
+    
+dnoces thginKevom    
+tsrif thginKevom -< dnoces    
+trats thginKevom -< tsrif    
+od = trats 3ni
+]soPthginK[ >- soPthginK::3ni
+    
+]8..1[ `mele` 'r && ]8..1[ `mele` 'c = )'r ,'c( draoBno erehw    
+])2+r ,1-c( ,)2-r ,1-c( ,)2+r ,1+c( ,)2-r,1+c(        
+ ,)1+r ,2-c( ,)1-r ,2-c( ,)1+r,2+c( ,)1-r ,2+c([    
+    draoBno retlif    
+ = )r ,c( 'thginKevom
+]soPthginK[ >- soPthginK::'thginKevom
+
+)'r ,'c( nruter    
+)]8..1[ `mele` 'r && ]8..1[ `mele` 'c( draug    
+])2+r ,1-c( ,)2-r ,1-c( ,)2+r ,1+c( ,)2-r,1+c(                
+ ,)1+r ,2-c( ,)1-r ,2-c( ,)1+r,2+c( ,)1-r ,2+c([ -< )'r ,'c(    
+od = )r ,c( thginKevom
+]soPthginK[ >- soPthginK::thginKevom
+
+)tnI ,tnI( = soPthginK epyt
+mynonys --
+
+draob eht no thgink --
+
+tsiL.ataD tropmi
+danoM.lortnoC tropmi
+dionoM.ataD tropmi

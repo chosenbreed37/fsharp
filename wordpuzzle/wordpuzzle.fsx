@@ -10,7 +10,7 @@ let loadPuzzle file =
     arr
 
 let findw (w: string) a =
-    let findw' (w: char []) (a: char[,]) =
+    let findw' (w: char []) a =
         let ubound = (Array2D.length1 a) - 1
 
         let rec right r i =
